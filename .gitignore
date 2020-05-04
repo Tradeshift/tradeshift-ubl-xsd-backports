@@ -1,0 +1,11 @@
+/tradeshift-ubl-xsd-2_0/target/
+/tradeshift-ubl-xsd-2_2/target/
+/tradeshift-ubl-xsd-2_1/target/
+.classpath
+.project
+.springBeans
+.idea/
+*.iml
+*.DS_Store
+target/
+work/
