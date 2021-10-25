@@ -5,11 +5,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: tradeshift-ubl-xsd
+  name: tradeshift-ubl-xsd-backports
   description: |
     XSDs for Universal Business Language
   annotations:
-    github.com/project-slug: Tradeshift/tradeshift-ubl-xsd # GitHub project name
+    github.com/project-slug: Tradeshift/tradeshift-ubl-xsd-backports # GitHub project name
   tags:
     - xml
 spec:
