@@ -1,0 +1,18 @@
+version: 2
+updates:
+  - package-ecosystem: maven
+    directory: /
+    schedule:
+      interval: daily
+  - package-ecosystem: maven
+    directory: /tradeshift-ubl-xsd-2_0
+    schedule:
+      interval: daily
+  - package-ecosystem: maven
+    directory: /tradeshift-ubl-xsd-2_1
+    schedule:
+      interval: daily
+  - package-ecosystem: maven
+    directory: /tradeshift-ubl-xsd-2_2
+    schedule:
+      interval: daily
