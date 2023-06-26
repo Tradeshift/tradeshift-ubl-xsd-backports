@@ -60,3 +60,4 @@ The artifact only contains the XML Schemas (XSD) of the Universal Business Langu
 
 If you need to depend on the examples for unit tests you can use [tradeshift-ubl-examples](https://github.com/Tradeshift/tradeshift-ubl-examples)
 
+Test change (dont merge)
