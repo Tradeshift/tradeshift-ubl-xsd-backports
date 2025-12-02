@@ -1165,6 +1165,14 @@ xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attr
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
+            <xsd:enumeration value="TRY">
+                <xsd:annotation>
+                    <xsd:documentation>
+                        <ccts:CodeName>Turkish Lira</ccts:CodeName>
+                        <ccts:CodeDescription></ccts:CodeDescription>
+                    </xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
       <xsd:enumeration value="TTD">
         <xsd:annotation>
           <xsd:documentation>
