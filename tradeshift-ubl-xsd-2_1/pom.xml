@@ -6,7 +6,7 @@
   <parent>
     <groupId>com.tradeshift</groupId>
     <artifactId>tradeshift-ubl-xsd-backports</artifactId>
-    <version>2.2.0</version>
+    <version>2.2.1</version>
   </parent>
   <artifactId>tradeshift-ubl-xsd-2_1</artifactId>
   <name>OASIS Universal Business Language XML schemas - 2.1</name>
